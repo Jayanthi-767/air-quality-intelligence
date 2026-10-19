@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Air Quality Intelligence
 
 A Python-based data analytics project that collects air-quality readings from the World Air Quality Index (WAQI) API, stores them in SQLite, analyzes pollutant measurements, and displays results through an interactive dashboard.
@@ -138,3 +139,7 @@ This is an educational analytics project. Readings depend on the source station 
 ## 👤 Author
 
 Add your name and portfolio links here.
+=======
+# air_quality_intelligence
+>>>>>>> 90ac96a5ef93fc6eceaaad8e2d9a893ca4a43fc4
+
