@@ -6,3 +6,6 @@ __pycache__/
 *.db
 waqi_air_quality.csv
 project-file-list.txt
+
+waqi_pm25_trend.png
+waqi_pollutant_comparison.png
