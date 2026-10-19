@@ -1,0 +1,14 @@
+
+.env
+.venv/
+__pycache__/
+*.py[cod]
+air_quality.db
+*.db
+waqi_air_quality.csv
+waqi_pm25_trend.png
+waqi_pollutant_comparison.png
+
+project-file-list.txt
+.venv313/
+.venv313/
